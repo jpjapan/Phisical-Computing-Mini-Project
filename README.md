@@ -50,4 +50,5 @@ Youtube Link : https://youtu.be/ElnQ4RVqeb0
 https://github.com/jpjapan/Phisical-Computing-Mini-Project/assets/118097228/c91230a2-925f-47a2-a524-541b1dc9854a
 
 ###Poster
-[_Paintt.pdf](https://github.com/jpjapan/Phisical-Computing-Mini-Project/files/13195916/_Paintt.pdf)
+![image](https://github.com/jpjapan/Phisical-Computing-Mini-Project/assets/118097228/e36d7be1-6a0b-44b3-ac0d-152c864d9234)
+
