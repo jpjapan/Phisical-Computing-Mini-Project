@@ -48,3 +48,6 @@ Project นี้เป็นโปรเจ็กต์ที่ใช้ micro
 Youtube Link : https://youtu.be/ElnQ4RVqeb0
 
 https://github.com/jpjapan/Phisical-Computing-Mini-Project/assets/118097228/c91230a2-925f-47a2-a524-541b1dc9854a
+
+###Poster
+[_Paintt.pdf](https://github.com/jpjapan/Phisical-Computing-Mini-Project/files/13195916/_Paintt.pdf)
